@@ -15,7 +15,7 @@ $ rmmod hello-1
 ```
 To clean directory
 ```
-make clean
+$ make clean
 ```
 
 [Source](https://tldp.org/LDP/lkmpg/2.6/html/index.html)
